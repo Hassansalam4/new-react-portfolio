@@ -3,10 +3,10 @@ export default function Contact() {
     <div>
       <h1>Contact me here</h1>
       <p>
-        Email
+        Email:atuman4@gmail.com
       </p>
       <p>
-        Github
+        Github:https://github.com/Hassansalam4/new-react-portfolio.git
       </p>
     </div>
   );
